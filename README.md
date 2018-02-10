@@ -4,10 +4,12 @@ Calculates macronutrients (fats,protein & carbs) based on weight entered.
 
 Select ratios based on desired goal:
 
-* Calorie deficit (lose weight) - decrease carb ratio.
-* Calorie surplus (gain weight) - increase carb ratio & or protein ratio.
-\
-\
+```
+Calorie deficit (lose weight) - decrease carb ratio.
+Calorie surplus (gain weight) - increase carb ratio & or protein ratio.
+  
+  
+```  
 ![example gif](img/Macro-iOS.gif)
 
 ## Purpose
