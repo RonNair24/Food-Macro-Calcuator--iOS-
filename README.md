@@ -23,18 +23,17 @@ my thought process based on my own research.
 
 ```
 Language: Swift / iOS
-OS: macOS
 
 ```
 
 ## Versioning
 
-1.0
+VER: 1.0
 
 ## Authors
 
 * **Ron Nair** - [RonNair24](https://github.com/RonNair24)
 
-## References
+## Reference
 
 * https://www.jimstoppani.com/home/featured-meal-plans/dieting-101
