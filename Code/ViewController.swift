@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Macro Calculator
 //
-//  Created by Ron Nair on 29/05/17.
-//  Copyright © 2017 Ron Nair. All rights reserved.
+//  Created by Ron Nair on 22/01/2020.
+//  Copyright © 2019 Ron Nair. All rights reserved.
 //
 
 import UIKit
